@@ -33,7 +33,7 @@ Flutter Singleton File Logger is a Flutter project that demonstrates the use of 
 
 ## Screenshots
 
-(TODO: Add screenshots of the app here)
+![Screenshot_1691782961](https://github.com/JoaoPauloUbaF/flutter_singleton_filelogger/assets/52152762/84b62b72-b3ca-4de7-be8a-1fa5df8e9625)
 
 ## Learnings
 
@@ -80,7 +80,8 @@ Flutter Singleton File Logger √© um projeto Flutter que demonstra o uso do padr√
 
 ## Capturas de Tela
 
-(TODO: Adicione capturas de tela do aplicativo aqui)
+![Screenshot_1691782961](https://github.com/JoaoPauloUbaF/flutter_singleton_filelogger/assets/52152762/84b62b72-b3ca-4de7-be8a-1fa5df8e9625)
+
 
 ## Aprendizados
 
